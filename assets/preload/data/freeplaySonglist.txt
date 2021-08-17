@@ -1,0 +1,7 @@
+Swift:fidget-spinner:0
+Rush:fidget-spinner:0
+Breeze:lamp:0
+Friction:lamp-angry:0
+Sus:sus-boy:2
+Sacrifice:him:2
+Madness:fidget-spinner:3

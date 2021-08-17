@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fidget_and_lamp_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GUITAR SLAP0000" x="0" y="0" width="1044" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0001" x="0" y="0" width="1044" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0002" x="1044" y="0" width="1077" height="517"/>
+	<SubTexture name="GUITAR SLAP0003" x="1044" y="0" width="1077" height="517"/>
+	<SubTexture name="GUITAR SLAP0004" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0005" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0006" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0007" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0008" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0009" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0010" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0011" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0012" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0013" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0014" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0015" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0016" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0017" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0018" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0019" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0020" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0021" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0022" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0023" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0024" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="GUITAR SLAP0025" x="2121" y="0" width="1075" height="517" frameX="0" frameY="0" frameWidth="1077" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget down0000" x="3196" y="0" width="731" height="539" frameX="-4" frameY="0" frameWidth="735" frameHeight="539"/>
+	<SubTexture name="fidget and lamp fidget down0001" x="3196" y="0" width="731" height="539" frameX="-4" frameY="0" frameWidth="735" frameHeight="539"/>
+	<SubTexture name="fidget and lamp fidget down0002" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0003" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0004" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0005" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0006" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0007" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0008" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0009" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0010" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0011" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0012" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0013" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0014" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0015" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0016" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0017" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0018" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0019" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0020" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0021" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0022" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0023" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0024" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0025" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0026" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0027" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget down0028" x="0" y="539" width="735" height="539"/>
+	<SubTexture name="fidget and lamp fidget left0000" x="735" y="539" width="808" height="517"/>
+	<SubTexture name="fidget and lamp fidget left0001" x="735" y="539" width="808" height="517"/>
+	<SubTexture name="fidget and lamp fidget left0002" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0003" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0004" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0005" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0006" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0007" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0008" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0009" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0010" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0011" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0012" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0013" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0014" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0015" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget left0016" x="1543" y="539" width="803" height="517" frameX="-5" frameY="0" frameWidth="808" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget right0000" x="2346" y="539" width="797" height="517" frameX="-7" frameY="0" frameWidth="804" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget right0001" x="2346" y="539" width="797" height="517" frameX="-7" frameY="0" frameWidth="804" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget right0002" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0003" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0004" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0005" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0006" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0007" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0008" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0009" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0010" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0011" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0012" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0013" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0014" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0015" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0016" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0017" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0018" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0019" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0020" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0021" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0022" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0023" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0024" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0025" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0026" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0027" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget right0028" x="3143" y="539" width="804" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0000" x="0" y="1078" width="734" height="517" frameX="-2" frameY="0" frameWidth="736" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget up0001" x="0" y="1078" width="734" height="517" frameX="-2" frameY="0" frameWidth="736" frameHeight="517"/>
+	<SubTexture name="fidget and lamp fidget up0002" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0003" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0004" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0005" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0006" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0007" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0008" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0009" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0010" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0011" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0012" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0013" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0014" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0015" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0016" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0017" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0018" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0019" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0020" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0021" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0022" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0023" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0024" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0025" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0026" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0027" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp fidget up0028" x="734" y="1078" width="736" height="517"/>
+	<SubTexture name="fidget and lamp idle0000" x="1470" y="1078" width="777" height="513" frameX="-6" frameY="-4" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0001" x="1470" y="1078" width="777" height="513" frameX="-6" frameY="-4" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0002" x="2247" y="1078" width="762" height="517" frameX="0" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0003" x="2247" y="1078" width="762" height="517" frameX="0" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0004" x="3009" y="1078" width="755" height="516" frameX="0" frameY="-1" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0005" x="3009" y="1078" width="755" height="516" frameX="0" frameY="-1" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0006" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0007" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0008" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0009" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0010" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0011" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0012" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0013" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0014" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0015" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0016" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0017" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0018" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0019" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0020" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0021" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0022" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0023" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp idle0024" x="0" y="1595" width="746" height="517" frameX="-2" frameY="0" frameWidth="783" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp down0000" x="746" y="1595" width="748" height="504" frameX="0" frameY="-10" frameWidth="748" frameHeight="515"/>
+	<SubTexture name="fidget and lamp lamp down0001" x="746" y="1595" width="748" height="504" frameX="0" frameY="-10" frameWidth="748" frameHeight="515"/>
+	<SubTexture name="fidget and lamp lamp down0002" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0003" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0004" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0005" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0006" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0007" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0008" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0009" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0010" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0011" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0012" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0013" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0014" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0015" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0016" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0017" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0018" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0019" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0020" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0021" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0022" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0023" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp down0024" x="1494" y="1595" width="748" height="515"/>
+	<SubTexture name="fidget and lamp lamp left0000" x="2242" y="1595" width="711" height="517" frameX="0" frameY="0" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0001" x="2242" y="1595" width="711" height="517" frameX="0" frameY="0" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0002" x="2953" y="1595" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0003" x="2953" y="1595" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0004" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0005" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0006" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0007" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0008" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0009" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0010" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0011" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0012" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0013" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0014" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0015" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0016" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0017" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0018" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0019" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0020" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0021" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0022" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0023" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp left0024" x="0" y="2112" width="723" height="511" frameX="0" frameY="-6" frameWidth="723" frameHeight="517"/>
+	<SubTexture name="fidget and lamp lamp right0000" x="723" y="2112" width="772" height="523"/>
+	<SubTexture name="fidget and lamp lamp right0001" x="723" y="2112" width="772" height="523"/>
+	<SubTexture name="fidget and lamp lamp right0002" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0003" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0004" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0005" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0006" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0007" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0008" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0009" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0010" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0011" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0012" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0013" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0014" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0015" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0016" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0017" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0018" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0019" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0020" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0021" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0022" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0023" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp right0024" x="1495" y="2112" width="759" height="522" frameX="0" frameY="-1" frameWidth="772" frameHeight="523"/>
+	<SubTexture name="fidget and lamp lamp up0000" x="2254" y="2112" width="748" height="538"/>
+	<SubTexture name="fidget and lamp lamp up0001" x="2254" y="2112" width="748" height="538"/>
+	<SubTexture name="fidget and lamp lamp up0002" x="3002" y="2112" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0003" x="3002" y="2112" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0004" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0005" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0006" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0007" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0008" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0009" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0010" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0011" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0012" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0013" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0014" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0015" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0016" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0017" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0018" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0019" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0020" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0021" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0022" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0023" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+	<SubTexture name="fidget and lamp lamp up0024" x="0" y="2650" width="748" height="525" frameX="0" frameY="-13" frameWidth="748" frameHeight="538"/>
+</TextureAtlas>

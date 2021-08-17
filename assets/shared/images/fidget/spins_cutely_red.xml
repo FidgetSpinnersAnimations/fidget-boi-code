@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spins_cutely_red.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spin red0000" x="0" y="0" width="321" height="295" frameX="-23" frameY="-23" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0001" x="321" y="0" width="297" height="320" frameX="-70" frameY="-38" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0002" x="618" y="0" width="321" height="299" frameX="-34" frameY="-67" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0003" x="939" y="0" width="300" height="321" frameX="-24" frameY="-18" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0004" x="1239" y="0" width="320" height="303" frameX="-41" frameY="0" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0005" x="1559" y="0" width="305" height="320" frameX="-60" frameY="-16" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0006" x="0" y="321" width="319" height="306" frameX="-14" frameY="-37" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0007" x="319" y="321" width="307" height="318" frameX="0" frameY="-4" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0008" x="626" y="321" width="318" height="310" frameX="-20" frameY="-5" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0009" x="944" y="321" width="312" height="318" frameX="-30" frameY="-40" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0010" x="1256" y="321" width="316" height="313" frameX="-1" frameY="-55" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0011" x="1572" y="321" width="314" height="315" frameX="-7" frameY="-28" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0012" x="0" y="639" width="314" height="315" frameX="-46" frameY="-28" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0013" x="314" y="639" width="315" height="312" frameX="-50" frameY="-56" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0014" x="629" y="639" width="311" height="317" frameX="-25" frameY="-41" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0015" x="940" y="639" width="318" height="310" frameX="-29" frameY="-6" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0016" x="1258" y="639" width="308" height="318" frameX="-60" frameY="-5" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0017" x="1566" y="639" width="319" height="307" frameX="-34" frameY="-38" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0018" x="0" y="957" width="305" height="319" frameX="-2" frameY="-18" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0019" x="305" y="957" width="320" height="303" frameX="-6" frameY="-1" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0020" x="625" y="957" width="301" height="321" frameX="-42" frameY="-20" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0021" x="926" y="957" width="320" height="300" frameX="-12" frameY="-69" frameWidth="368" frameHeight="369"/>
+	<SubTexture name="spin red0022" x="1246" y="957" width="296" height="321" frameX="0" frameY="-40" frameWidth="368" frameHeight="369"/>
+</TextureAtlas>
