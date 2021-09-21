@@ -442,6 +442,26 @@ class DialogueBox extends FlxSpriteGroup
 					portraitRight.animation.addByPrefix('enter', 'girlfriend portrait enter', 24, false);
 					portraitRight.animation.play('enter');
 				}
+			case 'fidgetworried':
+				portraitRight.visible = false;
+				portraitLeft.visible = false;
+				if (!portraitLeft.visible)
+				{
+					portraitLeft.visible = true;
+					portraitLeft.frames = Paths.getSparrowAtlas('fidget/fidgetDialogueWorried');
+					portraitLeft.animation.addByPrefix('enter', 'fidget dialogue enter worried', 24, false);
+					portraitLeft.animation.play('enter');
+				}
+			case 'bruh':
+				portraitRight.visible = false;
+				portraitLeft.visible = false;
+				if (!portraitLeft.visible)
+				{
+					portraitLeft.visible = true;
+					portraitLeft.frames = Paths.getSparrowAtlas('fidget/bruh');
+					portraitLeft.animation.addByPrefix('enter', 'bruh moment', 24, false);
+					portraitLeft.animation.play('enter');
+				}
 		}
 	}
 

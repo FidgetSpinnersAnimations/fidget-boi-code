@@ -46,6 +46,8 @@ class TitleState extends MusicBeatState
 	var credTextShit:Alphabet;
 	var textGroup:FlxGroup;
 	var ngSpr:FlxSprite;
+	
+	var poop = new FlxSprite(-250, -100).loadGraphic(Paths.image('tgvfdfew'));
 
 	var curWacky:Array<String> = [];
 
@@ -322,7 +324,9 @@ class TitleState extends MusicBeatState
 				http.onData = function (data:String)
 				{
 					{
-						FlxG.switchState(new MainMenuState());
+						{
+					     	FlxG.switchState(new MainMenuState());
+						}
 					}
 				}
 				

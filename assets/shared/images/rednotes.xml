@@ -2,5 +2,5 @@
 <TextureAtlas imagePath="rednotes.png">
 	<!-- Created with Adobe Animate version 21.0.4.39603 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="redDown0000" x="0" y="0" width="131" height="175"/>
+	<SubTexture name="redDown0000" x="0" y="0" width="130" height="144"/>
 </TextureAtlas>

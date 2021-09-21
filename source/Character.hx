@@ -177,10 +177,10 @@ class Character extends FlxSprite
 				animation.addByPrefix('depressedBoy', 'why does this keep happening to me', 24, false);
 
 				addOffset('idle', -5, 140);
-				addOffset('dodge', -5, 140);
-				addOffset('hit', 75, 260);
+				addOffset('dodge', -65, 150);
+				addOffset('hit', -15, 150);
 				addOffset('depressedBoy', -5, 140);
-				addOffset('getALoad', -5, 140);
+				addOffset('getALoad', 45, 200);
 				addOffset("singUP", -29, 147);
 				addOffset("singRIGHT", -38, 143);
 				addOffset("singLEFT", -8, 144);
@@ -313,14 +313,100 @@ class Character extends FlxSprite
 				  animation.addByPrefix('singDOWN', "fidget down", 24, false);
 				  animation.addByPrefix('singLEFT', "fidget left", 24, false);
 				  animation.addByPrefix('singRIGHT', "fidget right", 24, false);
+				  animation.addByPrefix('spin', "SPIN", 24, false);
 				  
 				  addOffset('idle', 0, -270);
-				  addOffset("singUP", 36, -275);
-				  addOffset("singRIGHT", -3, -283);
-				  addOffset("singLEFT", 59, -274);
-				  addOffset("singDOWN", -3, -288);
+				  addOffset("singUP", 42, -257);
+				  addOffset("singRIGHT", 7, -263);
+				  addOffset("singLEFT", 55, -261);
+				  addOffset("singDOWN", -3, -278);
+				  addOffset('spin', 56, -175);
 				  
 				  playAnim('idle');
+				  
+              case 'dime':
+
+                  frames = Paths.getSparrowAtlas('characters/dime');
+				  
+				  animation.addByPrefix('idle', "fidget idle dance", 24, false);
+				  animation.addByPrefix('singUP', "fidget up note", 24, false);
+				  animation.addByPrefix('singDOWN', "fidget down note", 24, false);
+				  animation.addByPrefix('singLEFT', "fidget left note", 24, false);
+				  animation.addByPrefix('singRIGHT', "fidget right note", 24, false);
+				  
+				  addOffset('idle');
+				  addOffset("singUP", -1, 3);
+				  addOffset("singRIGHT", -13, 0);
+				  addOffset("singLEFT", 14, 0);
+				  addOffset("singDOWN", -3, -10);
+				  
+				  playAnim('idle');
+				  
+				  setGraphicSize(Std.int(width * 1.3));
+				  updateHitbox();
+				  
+              case 'button':
+
+                  frames = Paths.getSparrowAtlas('characters/button');
+				  
+				  animation.addByPrefix('idle', "fidget idle dance", 24, false);
+				  animation.addByPrefix('singUP', "fidget up note", 24, false);
+				  animation.addByPrefix('singDOWN', "fidget down note", 24, false);
+				  animation.addByPrefix('singLEFT', "fidget left note", 24, false);
+				  animation.addByPrefix('singRIGHT', "fidget right note", 24, false);
+				  
+				  addOffset('idle');
+				  addOffset("singUP", -1, 3);
+				  addOffset("singRIGHT", -13, 0);
+				  addOffset("singLEFT", 14, 0);
+				  addOffset("singDOWN", -3, -10);
+				  
+				  playAnim('idle');
+				  
+				  setGraphicSize(Std.int(width * 1.3));
+				  updateHitbox();
+				  
+              case 'spike':
+
+                  frames = Paths.getSparrowAtlas('characters/spike');
+				  
+				  animation.addByPrefix('idle', "fidget idle dance", 24, false);
+				  animation.addByPrefix('singUP', "fidget up note", 24, false);
+				  animation.addByPrefix('singDOWN', "fidget down note", 24, false);
+				  animation.addByPrefix('singLEFT', "fidget left note", 24, false);
+				  animation.addByPrefix('singRIGHT', "fidget right note", 24, false);
+				  
+				  addOffset('idle');
+				  addOffset("singUP", -1, 3);
+				  addOffset("singRIGHT", -13, 0);
+				  addOffset("singLEFT", 14, 0);
+				  addOffset("singDOWN", -3, -10);
+				  
+				  playAnim('idle');
+				  
+				  setGraphicSize(Std.int(width * 1.3));
+				  updateHitbox();
+				  
+              case 'tangerine':
+
+                  frames = Paths.getSparrowAtlas('characters/tangerine');
+				  
+				  animation.addByPrefix('idle', "fidget idle dance", 24, false);
+				  animation.addByPrefix('singUP', "fidget up note", 24, false);
+				  animation.addByPrefix('singDOWN', "fidget down note", 24, false);
+				  animation.addByPrefix('singLEFT', "fidget left note", 24, false);
+				  animation.addByPrefix('singRIGHT', "fidget right note", 24, false);
+				  
+				  addOffset('idle');
+				  addOffset("singUP", -1, 3);
+				  addOffset("singRIGHT", -13, 0);
+				  addOffset("singLEFT", 14, 0);
+				  addOffset("singDOWN", -3, -10);
+				  
+				  playAnim('idle');
+				  
+				  setGraphicSize(Std.int(width * 1.3));
+				  updateHitbox();
 				  
               case 'lamp':
 
@@ -349,12 +435,14 @@ class Character extends FlxSprite
 				  animation.addByPrefix('singDOWN', "lamp down angry", 24, false);
 				  animation.addByPrefix('singLEFT', "lamp left angry", 24, false);
 				  animation.addByPrefix('singRIGHT', "lamp right angry", 24, false);
+				  animation.addByPrefix('script', "script", 24, false);
 				  
 				  addOffset('idle', 60, 80);
 				  addOffset("singUP", 40, 100);
 				  addOffset("singRIGHT", 80, 90);
 				  addOffset("singLEFT", 101, 61);
 				  addOffset("singDOWN", 70, 90);
+				  addOffset('script', 50, 74);
 				  
 				  playAnim('idle');
 				  
@@ -471,93 +559,24 @@ class Character extends FlxSprite
 			    addOffset("singDOWN", 150, -340);
 				  
 			    playAnim('idle');
-			case 'dad':
-				frames = Paths.getSparrowAtlas('characters/DADDY_DEAREST');
-				animation.addByPrefix('idle', 'Dad idle dance', 24);
-				animation.addByPrefix('singUP', 'Dad Sing Note UP', 24);
-				animation.addByPrefix('singRIGHT', 'Dad Sing Note RIGHT', 24);
-				animation.addByPrefix('singDOWN', 'Dad Sing Note DOWN', 24);
-				animation.addByPrefix('singLEFT', 'Dad Sing Note LEFT', 24);
+			case 'lamp-very-angry':
+                frames = Paths.getSparrowAtlas('characters/lamp_very_angry');
+			     
+			    animation.addByPrefix('idle', "angry boi idle", 24, false);
+				animation.addByPrefix('singUP', "angry boi up", 24, false);
+		        animation.addByPrefix('singDOWN', "angry boi down", 24, false);
+				animation.addByPrefix('singLEFT', "angry boi left", 24, false);
+				animation.addByPrefix('singRIGHT', "angry boi right", 24, false);
+				animation.addByPrefix('screech', "screm", 24, false);
 
-				addOffset('idle');
-				addOffset("singUP", -6, 50);
-				addOffset("singRIGHT", 0, 27);
-				addOffset("singLEFT", -10, 10);
-				addOffset("singDOWN", 0, -30);
-
-				playAnim('idle');
-			case 'spooky':
-				frames = Paths.getSparrowAtlas('characters/spooky_kids_assets');
-				animation.addByPrefix('singUP', 'spooky UP NOTE', 24, false);
-				animation.addByPrefix('singDOWN', 'spooky DOWN note', 24, false);
-				animation.addByPrefix('singLEFT', 'note sing left', 24, false);
-				animation.addByPrefix('singRIGHT', 'spooky sing right', 24, false);
-				animation.addByIndices('danceLeft', 'spooky dance idle', [0, 2, 6], "", 12, false);
-				animation.addByIndices('danceRight', 'spooky dance idle', [8, 10, 12, 14], "", 12, false);
-
-				addOffset('danceLeft');
-				addOffset('danceRight');
-
-				addOffset("singUP", -20, 26);
-				addOffset("singRIGHT", -130, -14);
-				addOffset("singLEFT", 130, -10);
-				addOffset("singDOWN", -50, -130);
-
-				playAnim('danceRight');
-			case 'mom':
-				frames = Paths.getSparrowAtlas('characters/Mom_Assets');
-				animation.addByPrefix('idle', "Mom Idle", 24, false);
-				animation.addByPrefix('singUP', "Mom Up Pose", 24, false);
-				animation.addByPrefix('singDOWN', "MOM DOWN POSE", 24, false);
-				animation.addByPrefix('singLEFT', 'Mom Left Pose', 24, false);
-				// ANIMATION IS CALLED MOM LEFT POSE BUT ITS FOR THE RIGHT
-				// CUZ DAVE IS DUMB!
-				animation.addByPrefix('singRIGHT', 'Mom Pose Left', 24, false);
-
-				addOffset('idle');
-				addOffset("singUP", 14, 71);
-				addOffset("singRIGHT", 10, -60);
-				addOffset("singLEFT", 250, -23);
-				addOffset("singDOWN", 20, -160);
-
-				playAnim('idle');
-			case 'pico':
-				frames = Paths.getSparrowAtlas('characters/Pico_FNF_assetss');
-				animation.addByPrefix('idle', "Pico Idle Dance", 24);
-				animation.addByPrefix('singUP', 'pico Up note0', 24, false);
-				animation.addByPrefix('singDOWN', 'Pico Down Note0', 24, false);
-				if (isPlayer)
-				{
-					animation.addByPrefix('singLEFT', 'Pico NOTE LEFT0', 24, false);
-					animation.addByPrefix('singRIGHT', 'Pico Note Right0', 24, false);
-					animation.addByPrefix('singRIGHTmiss', 'Pico Note Right Miss', 24, false);
-					animation.addByPrefix('singLEFTmiss', 'Pico NOTE LEFT miss', 24, false);
-				}
-				else
-				{
-					// Need to be flipped! REDO THIS LATER!
-					animation.addByPrefix('singLEFT', 'Pico Note Right0', 24, false);
-					animation.addByPrefix('singRIGHT', 'Pico NOTE LEFT0', 24, false);
-					animation.addByPrefix('singRIGHTmiss', 'Pico NOTE LEFT miss', 24, false);
-					animation.addByPrefix('singLEFTmiss', 'Pico Note Right Miss', 24, false);
-				}
-
-				animation.addByPrefix('singUPmiss', 'pico Up note miss', 24);
-				animation.addByPrefix('singDOWNmiss', 'Pico Down Note MISS', 24);
-
-				addOffset('idle');
-				addOffset("singUP", -29, 27);
-				addOffset("singRIGHT", -68, -7);
-				addOffset("singLEFT", 65, 9);
-				addOffset("singDOWN", 200, -70);
-				addOffset("singUPmiss", -19, 67);
-				addOffset("singRIGHTmiss", -60, 41);
-				addOffset("singLEFTmiss", 62, 64);
-				addOffset("singDOWNmiss", 210, -28);
-
-				playAnim('idle');
-
-				flipX = true;
+				addOffset('idle', -37, 103);
+		        addOffset("singUP", 50, 130);
+				addOffset("singRIGHT", -70, 105);
+			    addOffset("singLEFT", 70, 104);
+			    addOffset("singDOWN", -26, 85);
+				addOffset('screech', 10, 80);
+				  
+			    playAnim('idle');
 		}
 
 		dance();
@@ -637,6 +656,27 @@ class Character extends FlxSprite
 						else
 							playAnim('danceLeft');
 					}
+					
+				case 'bf':
+                    if (animation.curAnim.name != 'hit' || animation.curAnim.finished)
+					{
+                        playAnim('idle');
+				 	}
+					
+                    else if (animation.curAnim.name != 'dodge' || animation.curAnim.finished)
+					{
+                        playAnim('idle');
+				 	}
+					
+                    else if (animation.curAnim.name != 'hey' || animation.curAnim.finished)
+					{
+                        playAnim('idle');
+				 	}
+					
+                    else if (animation.curAnim.name != 'getALoad' || animation.curAnim.finished)
+					{
+                        playAnim('idle');
+				 	}
 
 				case 'gf-christmas':
 					if (!animation.curAnim.name.startsWith('hair'))
@@ -679,6 +719,23 @@ class Character extends FlxSprite
 						playAnim('danceLeft');
 				default:
 					playAnim('idle');
+					
+				case 'fidget-spinner':
+                    if (animation.curAnim.name != 'spin' || animation.curAnim.finished)
+                        playAnim('idle');
+
+				case 'lamp-angry':
+                    if (animation.curAnim.name != 'script' || animation.curAnim.finished)
+                        playAnim('idle');
+
+				case 'fidget-lamp-angry':
+                    if (animation.curAnim.name != 'ahhh' || animation.curAnim.finished)
+					{
+                        playAnim('idle');
+				 	}
+				case 'lamp-very-angry':
+                    if (animation.curAnim.name != 'screech' || animation.curAnim.finished)
+                        playAnim('idle');
 			}
 		}
 	}

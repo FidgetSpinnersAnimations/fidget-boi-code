@@ -25,10 +25,11 @@ class HealthIcon extends FlxSprite
 		animation.add('sus-boy', [12, 13], 0, false, isPlayer);
         animation.add('sad-boy', [14, 14], 0, false, isPlayer);
         animation.add('him', [15, 15], 0, false, isPlayer);
-		animation.add('dad', [16, 17], 0, false, isPlayer);
-		animation.add('spooky', [18, 19], 0, false, isPlayer);
-		animation.add('pico', [20, 21], 0, false, isPlayer);
-		animation.add('mom', [22, 23], 0, false, isPlayer);
+		animation.add('lamp-very-angry', [6, 7], 0, false, isPlayer);
+		animation.add('dime', [16, 17], 0, false, isPlayer);
+		animation.add('button', [16, 17], 0, false, isPlayer);
+		animation.add('spike', [16, 17], 0, false, isPlayer);
+		animation.add('tangerine', [16, 17], 0, false, isPlayer);
 		animation.play(char);
 
 		switch(char)
