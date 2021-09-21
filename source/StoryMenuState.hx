@@ -27,7 +27,8 @@ class StoryMenuState extends MusicBeatState
 	var weekData:Array<Dynamic> = [
 		['Swift', 'Rush', 'Breeze', 'Friction'],
 		['Switch'],
-		['Sus', 'Sacrifice']
+		['Sus', 'Sacrifice'],
+		['Endless', 'Endless', 'Endless', 'Endless', 'Endless', 'Endless', 'Endless', 'Endless', 'Endless', 'Endless', 'Endless', 'Endless']
 	];	
 	var curDifficulty:Int = 1;
 
@@ -36,13 +37,15 @@ class StoryMenuState extends MusicBeatState
 	var weekCharacters:Array<Dynamic> = [
 		['fidget-spinner', 'bf', 'gf'],
 		['fidget-lamp', 'bf', 'gf'],
+		['sus-boy', 'bf', 'gf'],
 		['sus-boy', 'bf', 'gf']
 	];
 
 	var weekNames:Array<String> = [
-		"Entering The Grasslands",
-		"The Finale",
-		"The Sus Boy"
+		"Angry Phase",
+		"Too Many Mechanics",
+		"Memes",
+		"10 hours"
 	];
 
 	var txtWeekTitle:FlxText;
@@ -154,10 +157,11 @@ class StoryMenuState extends MusicBeatState
 
 		sprDifficulty = new FlxSprite(leftArrow.x + 130, leftArrow.y);
 		sprDifficulty.frames = ui_tex;
-		sprDifficulty.animation.addByPrefix('easy', 'EASY');
+		sprDifficulty.animation.addByPrefix('easy', 'baby');
 		sprDifficulty.animation.addByPrefix('normal', 'NORMAL');
 		sprDifficulty.animation.addByPrefix('hard', 'HARD');
 		sprDifficulty.animation.addByPrefix('you might lose', 'YOU MIGHT LOSE');
+		sprDifficulty.animation.addByPrefix('dont do this im warning you', 'dont do this im warning you');
 		sprDifficulty.animation.play('easy');
 		changeDifficulty();
 
@@ -312,11 +316,12 @@ class StoryMenuState extends MusicBeatState
 
 			PlayState.storyDifficulty = curDifficulty;
 			
-			if (curWeek == 1)
-           	{
-				curDifficulty = 2;
-            }
 			if (curWeek == 2)
+			{
+				curDifficulty = 1;
+			}
+			
+			if (curWeek == 3)
 			{
 				curDifficulty = 1;
 			}
@@ -372,23 +377,30 @@ class StoryMenuState extends MusicBeatState
 		{
 			case 0:
 				sprDifficulty.animation.play('easy');
-				sprDifficulty.offset.x = 20;
+				sprDifficulty.offset.x = 70;
 			case 1:
 				sprDifficulty.animation.play('normal');
 				sprDifficulty.offset.x = 70;
 			case 2:
 				sprDifficulty.animation.play('hard');
 				sprDifficulty.offset.x = 20;
-			case 3:
-				sprDifficulty.animation.play('you might lose');
-				sprDifficulty.offset.x = 70;
 		}
 		
 	    if (curWeek == 1)
     	{
-        	sprDifficulty.animation.play('you might lose');
-            sprDifficulty.offset.x = 70;
-    	}
+            switch (curDifficulty)
+			{
+				case 2:
+			    	sprDifficulty.animation.play('dont do this im warning you');
+			       	sprDifficulty.offset.x = 70;
+		     	case 0:
+			    	sprDifficulty.animation.play('baby');
+			    	sprDifficulty.offset.x = 70;
+				case 1:
+					sprDifficulty.animation.play('you might lose');
+					sprDifficulty.offset.x = 70;
+			}
+		}
 
 		sprDifficulty.alpha = 0;
 

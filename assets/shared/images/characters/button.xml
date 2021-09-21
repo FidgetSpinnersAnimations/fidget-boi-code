@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="button.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fidget down note0000" x="0" y="0" width="147" height="217" frameX="-2" frameY="-6" frameWidth="152" frameHeight="223"/>
+	<SubTexture name="fidget down note0001" x="0" y="0" width="147" height="217" frameX="-2" frameY="-6" frameWidth="152" frameHeight="223"/>
+	<SubTexture name="fidget down note0002" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0003" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0004" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0005" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0006" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0007" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0008" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0009" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0010" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0011" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0012" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0013" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0014" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0015" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0016" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0017" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0018" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0019" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0020" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0021" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0022" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0023" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0024" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0025" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0026" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0027" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0028" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0029" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0030" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0031" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0032" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0033" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0034" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0035" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0036" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0037" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0038" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget down note0039" x="147" y="0" width="152" height="223"/>
+	<SubTexture name="fidget idle dance0000" x="299" y="0" width="149" height="221" frameX="-5" frameY="-13" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0001" x="299" y="0" width="149" height="221" frameX="-5" frameY="-13" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0002" x="448" y="0" width="147" height="222" frameX="-4" frameY="-12" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0003" x="448" y="0" width="147" height="222" frameX="-4" frameY="-12" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0004" x="595" y="0" width="152" height="231" frameX="-1" frameY="-3" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0005" x="595" y="0" width="152" height="231" frameX="-1" frameY="-3" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0006" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0007" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0008" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0009" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0010" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0011" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0012" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0013" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0014" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0015" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0016" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0017" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0018" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0019" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0020" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0021" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0022" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0023" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0024" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0025" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0026" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0027" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0028" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0029" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0030" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0031" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0032" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0033" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0034" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0035" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0036" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0037" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0038" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget idle dance0039" x="747" y="0" width="152" height="234" frameX="0" frameY="0" frameWidth="154" frameHeight="234"/>
+	<SubTexture name="fidget left note0000" x="0" y="234" width="158" height="238"/>
+	<SubTexture name="fidget left note0001" x="0" y="234" width="158" height="238"/>
+	<SubTexture name="fidget left note0002" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0003" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0004" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0005" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0006" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0007" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0008" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0009" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0010" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0011" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0012" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0013" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0014" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0015" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0016" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0017" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0018" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0019" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0020" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0021" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0022" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0023" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0024" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0025" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0026" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0027" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0028" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0029" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0030" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0031" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0032" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0033" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0034" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0035" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0036" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0037" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0038" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget left note0039" x="158" y="234" width="154" height="235" frameX="-4" frameY="-3" frameWidth="158" frameHeight="238"/>
+	<SubTexture name="fidget right note0000" x="312" y="234" width="153" height="234" frameX="-8" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0001" x="312" y="234" width="153" height="234" frameX="-8" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0002" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0003" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0004" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0005" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0006" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0007" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0008" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0009" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0010" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0011" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0012" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0013" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0014" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0015" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0016" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0017" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0018" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0019" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0020" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0021" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0022" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0023" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0024" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0025" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0026" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0027" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0028" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0029" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0030" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0031" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0032" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0033" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0034" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0035" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0036" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0037" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0038" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget right note0039" x="465" y="234" width="153" height="234" frameX="0" frameY="0" frameWidth="161" frameHeight="234"/>
+	<SubTexture name="fidget up note0000" x="618" y="234" width="160" height="242" frameX="0" frameY="0" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0001" x="618" y="234" width="160" height="242" frameX="0" frameY="0" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0002" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0003" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0004" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0005" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0006" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0007" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0008" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0009" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0010" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0011" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0012" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0013" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0014" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0015" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0016" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0017" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0018" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0019" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0020" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0021" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0022" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0023" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0024" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0025" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0026" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0027" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0028" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0029" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0030" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0031" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0032" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0033" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0034" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0035" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0036" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0037" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0038" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+	<SubTexture name="fidget up note0039" x="778" y="234" width="157" height="234" frameX="-4" frameY="-8" frameWidth="161" frameHeight="242"/>
+</TextureAtlas>

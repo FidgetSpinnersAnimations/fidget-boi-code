@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lamp_very_angry.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry boi down0000" x="0" y="0" width="303" height="709" frameX="-29" frameY="-87" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0001" x="0" y="0" width="303" height="709" frameX="-29" frameY="-87" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0002" x="303" y="0" width="304" height="762" frameX="0" frameY="-34" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0003" x="303" y="0" width="304" height="762" frameX="0" frameY="-34" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0004" x="607" y="0" width="304" height="796" frameX="0" frameY="0" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0005" x="607" y="0" width="304" height="796" frameX="0" frameY="0" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0006" x="911" y="0" width="304" height="727" frameX="0" frameY="-69" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0007" x="911" y="0" width="304" height="727" frameX="0" frameY="-69" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0008" x="303" y="0" width="304" height="762" frameX="0" frameY="-34" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0009" x="303" y="0" width="304" height="762" frameX="0" frameY="-34" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0010" x="607" y="0" width="304" height="796" frameX="0" frameY="0" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0011" x="607" y="0" width="304" height="796" frameX="0" frameY="0" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0012" x="911" y="0" width="304" height="727" frameX="0" frameY="-69" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0013" x="911" y="0" width="304" height="727" frameX="0" frameY="-69" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0014" x="303" y="0" width="304" height="762" frameX="0" frameY="-34" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi down0015" x="303" y="0" width="304" height="762" frameX="0" frameY="-34" frameWidth="332" frameHeight="796"/>
+	<SubTexture name="angry boi idle0000" x="1215" y="0" width="269" height="715" frameX="-32" frameY="-100" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0001" x="1215" y="0" width="269" height="715" frameX="-32" frameY="-100" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0002" x="1484" y="0" width="271" height="771" frameX="-21" frameY="-44" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0003" x="1484" y="0" width="271" height="771" frameX="-21" frameY="-44" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0004" x="1755" y="0" width="265" height="811" frameX="-14" frameY="-4" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0005" x="1755" y="0" width="265" height="811" frameX="-14" frameY="-4" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0006" x="2020" y="0" width="276" height="746" frameX="0" frameY="-69" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0007" x="2020" y="0" width="276" height="746" frameX="0" frameY="-69" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0008" x="2296" y="0" width="276" height="781" frameX="0" frameY="-34" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0009" x="2296" y="0" width="276" height="781" frameX="0" frameY="-34" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0010" x="2572" y="0" width="276" height="815" frameX="0" frameY="0" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0011" x="2572" y="0" width="276" height="815" frameX="0" frameY="0" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0012" x="2020" y="0" width="276" height="746" frameX="0" frameY="-69" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0013" x="2020" y="0" width="276" height="746" frameX="0" frameY="-69" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0014" x="2296" y="0" width="276" height="781" frameX="0" frameY="-34" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi idle0015" x="2296" y="0" width="276" height="781" frameX="0" frameY="-34" frameWidth="301" frameHeight="815"/>
+	<SubTexture name="angry boi left0000" x="2848" y="0" width="391" height="749" frameX="0" frameY="-66" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0001" x="2848" y="0" width="391" height="749" frameX="0" frameY="-66" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0002" x="3239" y="0" width="395" height="781" frameX="-15" frameY="-34" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0003" x="3239" y="0" width="395" height="781" frameX="-15" frameY="-34" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0004" x="3634" y="0" width="395" height="815" frameX="-15" frameY="0" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0005" x="3634" y="0" width="395" height="815" frameX="-15" frameY="0" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0006" x="0" y="815" width="395" height="747" frameX="-15" frameY="-68" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0007" x="0" y="815" width="395" height="747" frameX="-15" frameY="-68" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0008" x="3239" y="0" width="395" height="781" frameX="-15" frameY="-34" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0009" x="3239" y="0" width="395" height="781" frameX="-15" frameY="-34" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0010" x="3634" y="0" width="395" height="815" frameX="-15" frameY="0" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0011" x="3634" y="0" width="395" height="815" frameX="-15" frameY="0" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0012" x="0" y="815" width="395" height="747" frameX="-15" frameY="-68" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0013" x="0" y="815" width="395" height="747" frameX="-15" frameY="-68" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0014" x="3239" y="0" width="395" height="781" frameX="-15" frameY="-34" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi left0015" x="3239" y="0" width="395" height="781" frameX="-15" frameY="-34" frameWidth="410" frameHeight="815"/>
+	<SubTexture name="angry boi right0000" x="395" y="815" width="245" height="781" frameX="-20" frameY="-35" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0001" x="395" y="815" width="245" height="781" frameX="-20" frameY="-35" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0002" x="640" y="815" width="229" height="816" frameX="0" frameY="0" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0003" x="640" y="815" width="229" height="816" frameX="0" frameY="0" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0004" x="869" y="815" width="229" height="749" frameX="0" frameY="-67" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0005" x="869" y="815" width="229" height="749" frameX="0" frameY="-67" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0006" x="1098" y="815" width="229" height="784" frameX="0" frameY="-32" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0007" x="1098" y="815" width="229" height="784" frameX="0" frameY="-32" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0008" x="640" y="815" width="229" height="816" frameX="0" frameY="0" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0009" x="640" y="815" width="229" height="816" frameX="0" frameY="0" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0010" x="869" y="815" width="229" height="749" frameX="0" frameY="-67" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0011" x="869" y="815" width="229" height="749" frameX="0" frameY="-67" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0012" x="1098" y="815" width="229" height="784" frameX="0" frameY="-32" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0013" x="1098" y="815" width="229" height="784" frameX="0" frameY="-32" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0014" x="640" y="815" width="229" height="816" frameX="0" frameY="0" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi right0015" x="640" y="815" width="229" height="816" frameX="0" frameY="0" frameWidth="265" frameHeight="816"/>
+	<SubTexture name="angry boi up0000" x="1327" y="815" width="401" height="839"/>
+	<SubTexture name="angry boi up0001" x="1327" y="815" width="401" height="839"/>
+	<SubTexture name="angry boi up0002" x="1728" y="815" width="378" height="758" frameX="-7" frameY="-81" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0003" x="1728" y="815" width="378" height="758" frameX="-7" frameY="-81" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0004" x="2106" y="815" width="378" height="793" frameX="-7" frameY="-46" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0005" x="2106" y="815" width="378" height="793" frameX="-7" frameY="-46" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0006" x="2484" y="815" width="378" height="825" frameX="-7" frameY="-14" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0007" x="2484" y="815" width="378" height="825" frameX="-7" frameY="-14" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0008" x="1728" y="815" width="378" height="758" frameX="-7" frameY="-81" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0009" x="1728" y="815" width="378" height="758" frameX="-7" frameY="-81" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0010" x="2106" y="815" width="378" height="793" frameX="-7" frameY="-46" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0011" x="2106" y="815" width="378" height="793" frameX="-7" frameY="-46" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0012" x="2484" y="815" width="378" height="825" frameX="-7" frameY="-14" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0013" x="2484" y="815" width="378" height="825" frameX="-7" frameY="-14" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0014" x="1728" y="815" width="378" height="758" frameX="-7" frameY="-81" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="angry boi up0015" x="1728" y="815" width="378" height="758" frameX="-7" frameY="-81" frameWidth="401" frameHeight="839"/>
+	<SubTexture name="screm0000" x="2862" y="815" width="295" height="630" frameX="0" frameY="0" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0001" x="3157" y="815" width="298" height="603" frameX="-13" frameY="-27" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0002" x="3157" y="815" width="298" height="603" frameX="-13" frameY="-27" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0003" x="3455" y="815" width="299" height="598" frameX="-21" frameY="-32" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0004" x="3455" y="815" width="299" height="598" frameX="-21" frameY="-32" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0005" x="3455" y="815" width="299" height="598" frameX="-21" frameY="-32" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0006" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0007" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0008" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0009" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0010" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0011" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0012" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0013" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0014" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0015" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0016" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0017" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0018" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0019" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0020" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0021" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0022" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0023" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0024" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0025" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0026" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0027" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+	<SubTexture name="screm0028" x="3754" y="815" width="302" height="596" frameX="-29" frameY="-34" frameWidth="331" frameHeight="630"/>
+</TextureAtlas>

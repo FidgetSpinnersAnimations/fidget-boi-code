@@ -367,7 +367,7 @@ class ModchartState
 					case 'philly-nice': songLowercase = 'philly';
 				}
 
-				var result = LuaL.dofile(lua, Paths.lua(songLowercase + "/modchart")); // execute le file
+				var result = LuaL.dofile(lua, Paths.lua(songLowercase + "/modchart" + PlayState.storyDifficulty)); // execute le file
 	
 				if (result != 0)
 				{
